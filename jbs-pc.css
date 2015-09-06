@@ -9,11 +9,11 @@ body{
    font-family: "メイリオ", sans-serif;
 }
 /*  記事部分とサイドバー  */
-.content-wrapper{
-   width: 950px;  /*  記事部分　サイドバーの横幅  */
-   margin-right: auto;
-   margin-left: auto;
-   margin-top:10px;  /*  ヘッダーとの距離  */
+.content-wrapper {
+    width: 970px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
 }
 /*   リンク
 ----------------------------------------------- */
@@ -120,9 +120,9 @@ ul.header-nav{
 -------------------------------------------- */
 .main-outer{
    float:left;
-   width:580px;
+   width:650px;
    background:#ffffff;
-   padding:10px 20px;
+   padding:0
    border:1px solid #e5e5e5;
    box-shadow:1px 1px 2px rgba(0,0,0, .4);   /* 枠線に影を付け立体的に */
 }
@@ -495,4 +495,7 @@ img{
    width:auto;
    margin:0;
    bottom:0;
+}
+.section {
+    margin: 0;
 }
