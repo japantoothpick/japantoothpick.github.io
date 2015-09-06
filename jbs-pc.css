@@ -65,7 +65,7 @@ max-width:100%;
 /*   ヘッダー 
 --------------------------------------- */
 .header {
-   margin:10px auto 20px;
+    margin: 10px auto 20px!important;
    padding-left:20px;
    padding-top:10px;
    width:950px;
