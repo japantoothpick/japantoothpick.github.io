@@ -6,7 +6,7 @@ body{
    margin:0;
    font-size:16px;
    line-height:26px;
-   font-family: "メイリオ", sans-serif;
+font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
 }
 /*  記事部分とサイドバー  */
 .content-wrapper {
