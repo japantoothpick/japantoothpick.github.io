@@ -158,17 +158,17 @@ p.kousin{
    border-bottom:1px dashed #666;
    float:none;
 }
-.article-list img{
-   float:left;
-   width:150px;
-   height:150px;
+.article-list img {
+    float: left;
+    width: 180px;
+    height: 150px;
 }
 /*  記事一覧のタイトル  */
 .article-list img:hover{
    opacity:0.7;
 }
-.article-list-title{
-   padding-left:160px;
+.article-list-title {
+    padding-left: 200px;
 }
 .article-list-title a{
    font-size:18px;
