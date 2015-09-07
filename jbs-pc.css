@@ -1,8 +1,11 @@
 @charset "utf-8";
 
+html {
+    background-color: #FAFAFA;
+}
 body{
    
-   background-color: #fdfdff;  /*  全体の背景色  */
+   background-color: #FAFAFB;
    margin:0;
    font-size:16px;
    line-height:26px;
