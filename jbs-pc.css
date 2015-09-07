@@ -511,3 +511,6 @@ img{
 .section {
     margin:0!important;
 }
+.quickedit{
+   display:none
+}
