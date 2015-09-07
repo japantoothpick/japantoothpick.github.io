@@ -298,10 +298,11 @@ margin-left: 20px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 /*   サイドバー見出し   */
-.sidebar h2,h3,h4{
-   padding:0 0 0 5px;
-   font-size:18px;
-   font-weight:700;
+.sidebar h2, h3, h4 {
+    border-bottom: 2px solid #FFAB40;
+    padding: 0 0 0 5px;
+    font-size: 16px;
+    font-weight: 700;
 }
 /*   人気記事    
 --------------------------------------- */
