@@ -517,6 +517,9 @@ img{
 a.quickedit {
     display: none!important;
 }
+span.widget-item-control {
+    display: none!important;
+}
 .ad_area {
     text-align: center;
 }
