@@ -514,7 +514,7 @@ img{
 }
 
 .section {
-    margin:0!important;
+    margin:0;
 }
 .quickedit {
     display: none!important;
