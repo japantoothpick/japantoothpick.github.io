@@ -39,19 +39,18 @@ blockquote {
 }
 /*   記事のフォント
 ----------------------------------------------- */
-.main-outer h1{
-   font-size:28px;
+.main-outer h1 {
+    font-size: 22px;
 }
-.entry-content h2{
-   font-size:24px;
-   padding:15px 10px;
-   border-left:3px solid #666;
+.entry-content h2 {
+    font-size: 20px;
+    padding: 7px 5px;
+    border-left: 2px solid #666;
 }
-.entry-content h3{
-   font-size:20px;
-   padding-bottom:10px;
-   padding-left:10px;
-   border-bottom:1px solid #666;
+.entry-content h3 {
+    font-size: 18px;
+    padding-left: 10px;
+    border-bottom: 1px dotted #666;
 }
 .main-outer p{
    font-size:16px;
