@@ -517,3 +517,6 @@ img{
 a.quickedit {
     display: none!important;
 }
+.ad_area {
+    text-align: center;
+}
