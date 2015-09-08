@@ -71,7 +71,7 @@ max-width:100%;
 /*   ヘッダー 
 --------------------------------------- */
 .header {
-    margin: 10px auto 20px!important;
+    margin: 10px auto 20px;
     padding: 15px 20px;
     width: 990px;
     height: 120px;
@@ -458,7 +458,7 @@ ul.snsb iframe {
 }
 .header{
    width:auto;
-   margin:0 auto;
+   margin:0;
 }
 .main-outer{
 margin: 10px;
