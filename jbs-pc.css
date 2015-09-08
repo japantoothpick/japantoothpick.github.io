@@ -514,10 +514,10 @@ img{
 .section {
     margin:0!important;
 }
-a.quickedit {
+.quickedit {
     display: none!important;
 }
-span.widget-item-control {
+.widget-item-control {
     display: none!important;
 }
 .ad_area {
