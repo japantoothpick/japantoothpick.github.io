@@ -47,15 +47,16 @@ blockquote {
     padding: 7px 5px;
     border-left: 2px solid #666;
 }
-.entry-content h3 {
-    font-size: 18px;
+.entry-content h3,.entry-content h4 {
+    font-size: 16px;
     padding-left: 10px;
-    border-bottom: 1px dotted #666;
+    border-bottom: 1px dotted #FFAB40;
 }
-.main-outer p{
-   font-size:16px;
-   line-height:26px;
-   padding-bottom:24px;
+.main-outer p {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0;
+    padding: 10px 5px;
 }
 /*  画像や動画の最適化  */
 iframe{
