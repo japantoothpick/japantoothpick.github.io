@@ -511,6 +511,6 @@ img{
 .section {
     margin:0!important;
 }
-.quickedit{
-   display:none!important;
+a.quickedit {
+    display: none!important;
 }
