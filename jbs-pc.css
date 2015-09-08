@@ -511,13 +511,12 @@ img{
    margin:0;
    bottom:0;
 }
+}
+
 .section {
     margin:0!important;
 }
 .quickedit {
-    display: none!important;
-}
-.widget-item-control {
     display: none!important;
 }
 .widget.ad_area {
