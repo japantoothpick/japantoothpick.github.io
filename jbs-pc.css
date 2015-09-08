@@ -461,6 +461,7 @@ ul.snsb iframe {
    margin:0 auto;
 }
 .main-outer{
+margin: 10px;
    width:auto;
    padding:10px 5px;
    float:none;
@@ -500,6 +501,7 @@ img{
    height:auto;
 }
 .sidebar{
+margin: 10px;	
    width:auto;
    float:none;
 }
@@ -519,12 +521,6 @@ img{
 .quickedit {
     display: none!important;
 }
-.widget.ad_area {
+.ad_area {
     text-align: center;
-}
-.mobile.main-outer {
-    margin: 10px;
-}
-.mobile.sidebar {
-    margin: 10px;
 }
