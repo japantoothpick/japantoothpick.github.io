@@ -523,3 +523,9 @@ img{
 .widget.ad_area {
     text-align: center;
 }
+.mobile.main-outer {
+    margin: 10px;
+}
+.mobile.sidebar {
+    margin: 10px;
+}
