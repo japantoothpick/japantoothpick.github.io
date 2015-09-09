@@ -448,6 +448,16 @@ ul.snsb li {
 ul.snsb iframe {
    margin: 0 !important;
 }
+
+.section {
+    margin:0;
+}
+.quickedit {
+    display: none!important;
+}
+.ad_area {
+    text-align: center;
+}
 /*   レスポンシブデザイン
 --------------------------------------------------- */         
 @media screen and (max-width: 768px){
@@ -513,14 +523,10 @@ margin: 5px;
    margin:0;
    bottom:0;
 }
+.blog-pager {
+    height: 50px;
+    margin: 10px 0;
+    background: none;
+}
 }
 
-.section {
-    margin:0;
-}
-.quickedit {
-    display: none!important;
-}
-.ad_area {
-    text-align: center;
-}
