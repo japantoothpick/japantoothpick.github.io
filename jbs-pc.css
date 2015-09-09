@@ -458,6 +458,13 @@ ul.snsb iframe {
 .ad_area {
     text-align: center;
 }
+.clearfix:after {  
+  content: ".";   
+  display: block;   
+  height: 0;   
+  clear: both;   
+  visibility: hidden;  
+}  
 /*   レスポンシブデザイン
 --------------------------------------------------- */         
 @media screen and (max-width: 768px){
