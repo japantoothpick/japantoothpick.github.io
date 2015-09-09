@@ -461,9 +461,9 @@ ul.snsb iframe {
    margin:0!important;
 }
 .main-outer{
-margin: 10px;
+margin: 5px;
    width:auto;
-   padding:10px 5px;
+   padding:10px;
    float:none;
 }
 .pagenavi{
@@ -501,7 +501,7 @@ img{
    height:auto;
 }
 .sidebar{
-margin: 10px;	
+margin: 5px;	
    width:auto;
    float:none;
 }
