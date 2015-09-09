@@ -470,6 +470,9 @@ ul.snsb iframe {
    width:auto;
    margin:0!important;
 }
+#main {
+    margin-bottom: 60px;
+}
 .main-outer{
 margin: 5px;
    width:auto;
@@ -524,7 +527,7 @@ margin: 5px;
    bottom:0;
 }
 .blog-pager {
-    height: 50px;
+    height: auto;
     margin: 10px 0;
     background: none;
 }
