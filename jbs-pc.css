@@ -456,7 +456,8 @@ ul.snsb iframe {
     display: none!important;
 }
 .ad_area {
-    text-align: center;
+margin: 0 0 10px;
+text-align: center;
 }
 .clearfix:after {  
   content: ".";   
