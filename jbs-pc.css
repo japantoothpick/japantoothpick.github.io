@@ -459,6 +459,9 @@ ul.snsb iframe {
 margin: 0 0 10px;
 text-align: center;
 }
+.ad_area p {
+    font-size: 12px;
+}
 .clearfix:after {  
   content: ".";   
   display: block;   
