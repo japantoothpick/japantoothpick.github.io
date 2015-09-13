@@ -68,7 +68,7 @@ span.next-pagelink{float:right}
 .archive-list ul li{padding-bottom: 10px;}
 .list-label-widget-content ul li a{font-size:14px;color:#1A0DAB;transition:.4s}
 .list-label-widget-content ul{list-style-type:none;padding:0 0 0 10px}
-.list-label-widget-content ul li{padding-bottom:7px}
+.list-label-widget-content ul li{margin-right: 3px;    padding-bottom: 7px;display: inline-block;}
 .footer-outer{color:#999;width:100%;clear:both;font-size:14px;padding-top:40px;padding-bottom:30px}
 .footer-outer a{color:#999}
 .footer-outer a:hover{text-decoration:none}
