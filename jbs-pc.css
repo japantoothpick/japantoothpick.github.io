@@ -99,7 +99,7 @@ ul.snsb iframe{margin:0!important}
 .main-outer{margin:10px 5px 5px;width:auto;padding:10px;float:none}
 .pagenavi{width:auto}
 .article-list-title{width:100%;padding:0}
-.article-thumbnail img{float:none;width:100%;height:auto}
+.article-thumbnail img{margin-right: 5px;}
 .article-thumbnail{text-align:center}
 .post-box{text-align:center}
 .article-list{width:auto;float:none}
