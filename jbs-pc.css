@@ -72,14 +72,14 @@ img {
 max-width:100%
 }
 
-.header {
-margin:10px auto 20px!important;
-padding:15px 20px;
-width:990px;
-height:120px;
-background-color:#fff;
-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
-background:url(https://3.bp.blogspot.com/-qcdBqisl1K8/Ve1hUxmfttI/AAAAAAAACx0/__SHZ_Nkzw8/s1600/jbs-top_pc.jpg)no-repeat
+#Header1 {
+    margin: 10px auto 20px!important;
+    padding: 15px 20px;
+    width: 990px;
+    height: 120px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    background: url(https://3.bp.blogspot.com/-qcdBqisl1K8/Ve1hUxmfttI/AAAAAAAACx0/__SHZ_Nkzw8/s1600/jbs-top_pc.jpg)no-repeat;
 }
 
 .header h1 {
