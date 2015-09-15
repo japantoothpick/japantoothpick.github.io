@@ -73,24 +73,12 @@ max-width:100%
 }
 
 #Header1 {
-    margin: 10px auto 20px!important;
+    margin: 10px auto 20px;
     padding: 15px 20px;
     height: 120px;
     background-color: #fff;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
-@media screen and (min-width: 769px){
- #Header1 {
-    margin: 10px auto 20px!important;
-    padding: 15px 20px;
-    width: 990px;
-    height: 120px;
-    background-color: #fff;
-    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
-    background: url(https://3.bp.blogspot.com/-qcdBqisl1K8/Ve1hUxmfttI/AAAAAAAACx0/__SHZ_Nkzw8/s1600/jbs-top_pc.jpg)no-repeat;
-}
-}
-
 .header h1 {
 font-size:26px;
 margin-top:0;
@@ -536,7 +524,20 @@ height:0;
 clear:both;
 visibility:hidden
 }
-
+@media screen and (min-width: 769px){
+ #Header1 {
+        margin: 0 auto 20px!important;
+    padding: 15px 20px;
+    width: 990px;
+    height: 120px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    background: url(https://3.bp.blogspot.com/-qcdBqisl1K8/Ve1hUxmfttI/AAAAAAAACx0/__SHZ_Nkzw8/s1600/jbs-top_pc.jpg)no-repeat;
+}
+#header-inner {
+    margin-top: 15px;
+}
+}
 @media screen and (max-width: 768px) {
 .content-wrapper {
 width:auto;
