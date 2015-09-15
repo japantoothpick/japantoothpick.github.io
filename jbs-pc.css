@@ -630,9 +630,9 @@ margin:15px 0 10px
 .article-list-label {
     display: inline-block;
     font-size: 12px!important;
-    line-height: 20px;
+    line-height: 20px!important;
     margin: 0;
-    padding: 5px;
+    padding: 5px!important;
 }
   
 }
