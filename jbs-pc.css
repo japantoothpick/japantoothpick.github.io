@@ -613,8 +613,8 @@ margin:15px 0 10px
     height: 140px;
 }
 .article-list-title {
-    line-height: 1;
-    height: 72px;
+line-height: 1;
+    height: 100px;
     overflow: hidden;
 }
 .article-list-title a {
@@ -628,11 +628,10 @@ margin:15px 0 10px
     margin-right: 5px;
 }
 .article-list-label {
-    display: inline-block;
     font-size: 12px!important;
     line-height: 20px!important;
     margin: 0;
-    padding: 5px!important;
+    padding: 0px!important;
 }
   
 }
