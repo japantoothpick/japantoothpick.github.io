@@ -628,6 +628,9 @@ margin:15px 0 10px
     line-height: 30px;
     margin: 0 0 10px;
 }
+.header h1 a {
+    color: #fff!important;
+}
 .header-description {
     display: none;
 }
