@@ -607,3 +607,31 @@ bottom:0
 margin:15px 0 10px
 }
 }
+@media screen and (max-width: 460px) {
+.article-list {
+    width: auto;
+    float: none;
+    height: 140px;
+}
+.article-list-title {
+    padding: 0;
+} 
+.article-list-title a {
+    font-size: 14px;
+    color: #000;
+}
+.article-list img {
+    float: left;
+    width: 120px;
+    height: 100px;
+    margin-right: 5px;
+}
+.article-list-label {
+    display: inline-block;
+    font-size: 12px!important;
+    line-height: 20px;
+    margin: 0;
+    padding: 5px;
+}
+  
+}
