@@ -635,5 +635,22 @@ line-height: 1;
     margin: 0;
 padding: 5px 0 0!important;
 }
-  
+#related-posts a {
+    color: #666;
+    transition: .3s;
+    overflow: hidden;
+    width: 50%;
+    margin: 0 0 5px!important;
+}
+#related-posts .related_img {
+    width: 95%;
+    height: 100px;
+    margin: auto;
+}
+#related-title {
+    line-height: 1.2;
+    margin: 2px 5px;
+    font-size: 12px;
+    height: 40px;
+}
 }
