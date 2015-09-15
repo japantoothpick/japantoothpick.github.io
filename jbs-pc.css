@@ -621,7 +621,7 @@ margin:15px 0 10px
 }
 @media screen and (max-width: 460px) {
 #Header1 {
-    background-color: #FFE0B2;
+    background-color: #000;
     text-align: center;
     height: 30px;
     padding: 10px;
