@@ -613,8 +613,10 @@ margin:15px 0 10px
     height: 140px;
 }
 .article-list-title {
-    padding: 0;
-} 
+    line-height: 1;
+    height: 72px;
+    overflow: hidden;
+}
 .article-list-title a {
     font-size: 14px;
     color: #000;
