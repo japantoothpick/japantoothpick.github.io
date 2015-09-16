@@ -1,7 +1,27 @@
 @charset "utf-8";
 
+.asia-hositori table {
+    margin: 0 auto;
+    width: 600px;
+}
+.asia-hositori th {
+    background-color: #40C4FF;
+}
+td.rank,td.team {
+    width: 50px!important;
+    text-align: center;
+}
+td.team {
+    background-color: #E1F5FE;
+}
+td.none {
+    background-color: #BDBDBD;
+}
+@media screen and (max-width: 768px) {
+  
+  
+}
+@media screen and (max-width: 460px) {
+  
 
-@media screen and (max-width: 768px){
-  
-  
 }
