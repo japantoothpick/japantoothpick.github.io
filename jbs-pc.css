@@ -527,6 +527,9 @@ visibility:hidden
 table.style {
     border-collapse: collapse;
 }
+table.style th,table.style tr td {
+    border:1px solid #BDBDBD;
+}
 @media screen and (min-width: 769px){
  #Header1 {
     margin: 0 auto 20px!important;
