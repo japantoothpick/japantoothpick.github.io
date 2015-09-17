@@ -1,33 +1,13 @@
 @charset "utf-8";
-
-.asia-hositori table {
-    margin: 0 auto;
-}
-.asia-hositori th {
-    line-height: 30px;
-    background-color: #40C4FF;
-}
-.asia-hositori td {
-    line-height: 35px;
-}
-th.rank {
-    width: 50px;
-}
-th.team {
-    width: 50px;
-}
-th.name {
-    width: 110px;
-}
-td.rank,td.team {
-    text-align: center;
-}
-td.team {
-    background-color: #E1F5FE;
-}
-td.none {
-    background-color: #BDBDBD;
-}
+.asia-hositori table{margin:0 auto}
+.asia-hositori th{line-height:30px;background-color:#40C4FF}
+.asia-hositori td{line-height:35px}
+th.rank{width:50px}
+th.team{width:50px}
+th.name{width:110px}
+td.rank,td.team{text-align:center}
+td.team{background-color:#E1F5FE}
+td.none{background-color:#BDBDBD}
 @media screen and (max-width: 768px) {
   
   
