@@ -691,3 +691,28 @@ line-height: 1.2;
     height: 40px;
 }
 }
+.asia-hositori table{margin:0 auto}
+.asia-hositori th{line-height:30px;background-color:#40C4FF}
+.asia-hositori td{line-height:35px}
+th.rank{width:50px}
+th.team{width:50px}
+th.name{width:110px}
+td.rank,td.team{text-align:center}
+td.team{background-color:#E1F5FE}
+td.none{background-color:#BDBDBD}
+.h-contents {
+    width: 1030px;
+    line-height: 50px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+@media screen and (max-width: 768px) {
+  
+  
+}
+@media screen and (max-width: 460px) {
+  
+
+}
