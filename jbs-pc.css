@@ -713,6 +713,9 @@ td.none{background-color:#BDBDBD}
     margin: 0;
     padding: 0;
 }
+.h-contents li {
+    margin: 0 5px;
+}
 @media screen and (max-width: 768px) {
   
   
