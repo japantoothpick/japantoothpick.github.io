@@ -546,7 +546,15 @@ table.style th,table.style td {
     text-align: center;
     border:1px solid #BDBDBD;
 }
-
+.asia-hositori table{margin:0 auto}
+.asia-hositori th{line-height:30px;background-color:#40C4FF}
+.asia-hositori td{line-height:35px}
+th.rank{width:50px}
+th.team{width:50px}
+th.name{width:110px}
+td.rank,td.team{text-align:center}
+td.team{background-color:#E1F5FE}
+td.none{background-color:#BDBDBD}
 @media screen and (max-width: 768px) {
 .content-wrapper {
 width:auto;
@@ -693,16 +701,6 @@ line-height: 1.2;
     height: 40px;
 }
 }
-.asia-hositori table{margin:0 auto}
-.asia-hositori th{line-height:30px;background-color:#40C4FF}
-.asia-hositori td{line-height:35px}
-th.rank{width:50px}
-th.team{width:50px}
-th.name{width:110px}
-td.rank,td.team{text-align:center}
-td.team{background-color:#E1F5FE}
-td.none{background-color:#BDBDBD}
-
 @media screen and (max-width: 768px) {
  .gnav {
     width: 100%;
