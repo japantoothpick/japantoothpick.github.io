@@ -702,21 +702,7 @@ th.name{width:110px}
 td.rank,td.team{text-align:center}
 td.team{background-color:#E1F5FE}
 td.none{background-color:#BDBDBD}
-.gnav {
-    width: 100%;
-    line-height: 50px;
-    height: 50px;
-    margin: 0 auto;
-    background-color: #fff;
-}
-.gnav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-.gnav li {
-    margin: 0 5px;
-}
+
 @media screen and (max-width: 768px) {
  .gnav {
     width: 100%;
