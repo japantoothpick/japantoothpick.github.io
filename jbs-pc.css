@@ -13,10 +13,8 @@ font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',メイリオ,
 }
 
 .content-wrapper {
-width:1030px;
-margin-right:auto;
-margin-left:auto;
-margin-top:10px
+    width: 1000px;
+    margin: 0 auto;
 }
 
 a:link {
@@ -152,11 +150,11 @@ color:#ff8c00
     padding: 0;
 }
 .main-outer {
-float:left;
-width:650px;
-background:#fff;
-padding:10px 20px;
-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)
+    float: left;
+    width: 652px;
+    background: #fff;
+    padding: 16px 8px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
 #main {
