@@ -338,10 +338,9 @@ float:right
 }
 
 .sidebar {
-width:320px;
-max-width:100%;
-float:left;
-margin-left:20px
+    width: 316px;
+    float: left;
+    margin-left: 16px;
 }
 
 #sidebar-section {
