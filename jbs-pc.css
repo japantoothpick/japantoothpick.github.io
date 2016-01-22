@@ -75,7 +75,9 @@ max-width:100%
 img {
 max-width:100%
 }
-
+header {
+    margin-bottom: 16px;
+}
  #Header1 {
     margin: 0;
     padding: 16px;
