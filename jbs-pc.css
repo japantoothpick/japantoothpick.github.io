@@ -1,7 +1,6 @@
 @charset "UTF-8"; 
 
 body{
-   
    background-color: #fdfdff;  /*  全体の背景色  */
    margin:0;
    font-size:16px;
@@ -9,11 +8,9 @@ body{
    font-family:Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
 }
 /*  記事部分とサイドバー  */
-.content-wrapper{
-   width: 950px;  /*  記事部分　サイドバーの横幅  */
-   margin-right: auto;
-   margin-left: auto;
-   margin-top:10px;  /*  ヘッダーとの距離  */
+.content-wrapper {
+    width: 1080px;
+    margin: auto;
 }
 /*   リンク
 ----------------------------------------------- */
