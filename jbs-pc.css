@@ -124,6 +124,7 @@ max-width:100%;
 }
 .header-nav a:hover {
     background-color: #26A69A;
+    border-bottom: 2px solid #FF9800;
 }
 /*   記事ページ
 -------------------------------------------- */
