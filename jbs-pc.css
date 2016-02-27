@@ -154,16 +154,15 @@ p.post-date {
 }
 /*   トップページ、カテゴリ、アーカイブの記事一覧
 --------------------------------------------------------- */
-.article-list{
-   padding-bottom:30px;
-   padding-top:10px;
-   border-bottom:1px dashed #666;
-   float:none;
+.article-list {
+    padding: 18px 0;
+    border-bottom: 1px solid #BDBDBD;
+    float: none;
 }
-.article-list img{
-   float:left;
-   width:150px;
-   height:150px;
+.article-list img {
+    float: left;
+    width: 150px;
+    height: 110px;
 }
 /*  記事一覧のタイトル  */
 .article-list img:hover{
