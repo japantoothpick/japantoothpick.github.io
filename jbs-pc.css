@@ -129,6 +129,9 @@ ul.header-nav{
 #main{
    margin:0;
 }
+.post-outer {
+    padding: 0 16px;
+}
 .post-outer img{  
    max-width:100%;　　/* 記事内の画像をはみ出させない */
    height:auto;
