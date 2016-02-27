@@ -63,31 +63,30 @@ max-width:100%;
 /*   ヘッダー 
 --------------------------------------- */
 .header {
-    margin: 10px auto 20px;
-    padding-left: 20px;
-    padding-top: 10px;
+    margin: 24px auto;
     width: 100%;
     max-width: 1200px;
 }
+.titlewrapper {
+    margin: 0 32px 16px;
+}
 /*   ブログタイトル   
 ---------------------------------------- */
-.header h1{
-   font-size:26px;
-   margin-top:0;
-   margin-bottom:0;
+.header h1 {
+    font-size: 26px;
+    margin: 0;
 }
-.header-title a{
-   font-size:26px;
-   font-weight:700;
-   text-decoration:none;
-   color:#000000;
-   margin-top:5px;
+.header-title a {
+    font-size: 26px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #212121;
 }
 .header-title a:hover{
    text-decoration:none;
 }
-.header-title a:visited{
-   color:#000000;
+.header-title a:visited {
+    color: #212121;
 }
 /*   ブログ説明   */
 .header-description p{
@@ -122,7 +121,6 @@ ul.header-nav{
    width:580px;
    background:#ffffff;
    padding:10px 20px;
-   border:1px solid #e5e5e5;
 }
 #main{
    margin:0;
