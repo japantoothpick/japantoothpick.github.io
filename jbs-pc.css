@@ -175,9 +175,9 @@ p.post-date {
    font-size:18px;
    color:#000000;
 }
-.article-list-title a:hover{
-   color:#ff8c00;
-   text-decoration:none;
+.article-list-title a:hover {
+    color: #FF7043;
+    text-decoration: none;
 }
 /*記事一覧の公開日、カテゴリ名  */
 a.article-label{
