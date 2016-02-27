@@ -1,5 +1,10 @@
 @charset "UTF-8"; 
 
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
 body{
    background-color: #fdfdff;  /*  全体の背景色  */
    margin:0;
