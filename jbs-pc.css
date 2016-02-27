@@ -118,6 +118,12 @@ max-width:100%;
 }
 .header-nav a {
     color: #fff;
+    padding: 0 16px;
+    display: block;
+    text-decoration: none;
+}
+.header-nav a:hover {
+    background-color: #26A69A;
 }
 /*   記事ページ
 -------------------------------------------- */
