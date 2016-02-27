@@ -117,6 +117,7 @@ max-width:100%;
     color: #fff;
 }
 .header-nav a {
+    height: 43px;
     color: #fff;
     padding: 0 16px;
     display: block;
