@@ -100,14 +100,24 @@ max-width:100%;
 }
 /*   ヘッダーナビゲーション 
 ------------------------------------------- */
+.header-nav {
+    background-color: #009688;
+    height: 45px;
+    line-height: 45px;
+}
 .header-nav ul {
     list-style-type: none;
     max-width: 1000px;
     margin: 0 auto;
 }
 .header-nav li {
-    font-size: 14px;
+    float: left;
+    font-size: 15px;
     font-weight: 600;
+    color: #fff;
+}
+.header-nav a {
+    color: #fff;
 }
 /*   記事ページ
 -------------------------------------------- */
