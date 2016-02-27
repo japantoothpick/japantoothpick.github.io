@@ -148,8 +148,7 @@ ul.header-nav{
 	margin-bottom: 20px;
 }
 /*　記事ページの公開日 カテゴリ名 */
-p.kousin{
-   font-style: italic;
+.post-date{
    font-size:15px;
 }
 /*   トップページ、カテゴリ、アーカイブの記事一覧
