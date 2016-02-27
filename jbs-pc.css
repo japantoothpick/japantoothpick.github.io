@@ -100,11 +100,15 @@ max-width:100%;
 }
 /*   ヘッダーナビゲーション 
 ------------------------------------------- */
-.header-nav ul{
+.header-nav ul {
+    list-style-type: none;
     max-width: 1000px;
     margin: 0 auto;
 }
-
+.header-nav li {
+    font-size: 14px;
+    font-weight: 600;
+}
 /*   記事ページ
 -------------------------------------------- */
 .main-outer {
