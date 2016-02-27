@@ -68,12 +68,12 @@ max-width:100%;
 /*   ヘッダー 
 --------------------------------------- */
 .header {
-    margin: 24px auto;
+    margin: 24px 0;
     width: 100%;
-    max-width: 1200px;
 }
-.titlewrapper {
-    margin: 0 32px 16px;
+#header-inner {
+    margin: 0 auto 16px;
+    max-width: 1000px;
 }
 /*   ブログタイトル   
 ---------------------------------------- */
