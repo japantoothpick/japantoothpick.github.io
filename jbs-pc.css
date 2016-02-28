@@ -305,6 +305,7 @@ float:right;
    font-weight:700;
 }
 .sidebar h4 {
+    margin-bottom: 4px;
     padding: 4px;
     background-color: #009688;
     border-bottom: 2px solid #FF9800;
