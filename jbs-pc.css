@@ -188,9 +188,9 @@ p.post-date {
     text-decoration: none;
 }
 /*記事一覧の公開日、カテゴリ名  */
-a.article-label{
-   font-size:12px;
-   color:#136889;
+a.article-label {
+    font-size: 12px;
+    color: #0044CC;
 }
 .article-list-title p{
    font-size:12px;
@@ -304,6 +304,12 @@ float:right;
    font-size:18px;
    font-weight:700;
 }
+.sidebar h4 {
+    padding: 4px;
+    background-color: #009688;
+    border-bottom: 2px solid #FF9800;
+    color: #FFF;
+}
 /*   人気記事    
 --------------------------------------- */
 .popular-post ul li a {
@@ -340,8 +346,8 @@ float:right;
    list-style-type:none;
    line-height:18px;
 }
-.archive-list ul a{
-   color:#2098a8;
+.archive-list ul a {
+    color: #0044CC;
 }
 .archive-list ul li{
    padding-bottom:7px;
@@ -349,9 +355,9 @@ float:right;
 /*   ラベル
 -------------------------------------------- */  
 .list-label-widget-content ul li a {
-   font-size: 14px;
-   color:#2098a8;
-   transition: 0.4s;  /* 徐々に変化させる */
+    font-size: 14px;
+    color: #0044CC;
+    transition: 0.4s;
 }
 .list-label-widget-content ul{
    list-style-type: none;
