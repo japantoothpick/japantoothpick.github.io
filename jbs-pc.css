@@ -238,12 +238,12 @@ a.article-label {
    color:#999999;
 }
 #related-posts .related_img {
-   margin:5px;
-   border:2px solid #f2f2f2;
-   width:120px;
-   height:120px;
-   transition:all 300ms ease-in-out; 
-   border-radius: 5px; 
+    margin: 4px;
+    border: 2px solid #E0E0E0;
+    width: 120px;
+    height: 90px;
+    transition: all 300ms ease-in-out;
+    border-radius: 5px;
 }
 #related-title {
    padding: 0px 5px 10px;
