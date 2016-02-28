@@ -223,8 +223,9 @@ a.article-label {
    width:auto;
 }
 #related-posts a {
+    margin-bottom: 4px;
     display: block;
-    border-right: 1px dotted #E0E0E0;
+    border-bottom: 1px dotted #E0E0E0;
     color: #666;
     transition: 0.3s;
 }
