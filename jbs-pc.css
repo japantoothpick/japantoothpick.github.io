@@ -218,9 +218,9 @@ a.article-label {
 }
 /*   関連記事 
 -------------------------------------- */
-#related-posts{
-   float:left;
-   width:auto;
+#related-posts {
+    margin: 0 auto;
+    width: auto;
 }
 #related-posts a {
     margin-bottom: 4px;
