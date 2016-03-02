@@ -260,8 +260,9 @@ a.article-label {
 /*    ページナビゲーション
 ------------------------------------------------ */
 .blog-pager {
-   background: none;
-   text-align: initial !important;
+    margin-top: 24px;
+    background: none;
+    text-align: right;
 }
 #blog-pager a,.showpageOf,.pagecurrent{
    font-size: 14px;
