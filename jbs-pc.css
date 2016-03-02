@@ -272,24 +272,28 @@ a.article-label {
    margin:3px 8px;
    display: inline-block;
 }
-#blog-pager a,.pagecurrent{
-   font-size: 14px;
-   padding:8px 10px;
-   color: #666; 
-   background-color:#fff;
-   border:1px solid #dedede;
-   margin:3px 8px;
-   display: inline-block;
+#blog-pager a, .pagecurrent {
+    font-weight: 600;
+    text-align: center;
+    line-height: 35px;
+    height: 35px;
+    width: 35px;
+    font-size: 14px;
+    color: #212121;
+    margin: 0 8px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #BDBDBD;
 }
 #blog-pager a:hover{
    text-decoration:none;
    color:#fff;
    background:#ff8c00;
 }
-#blog-pager .pagecurrent{
-   font-weight:bold;
-   color: #fff;
-   background:#ff8c00;
+#blog-pager .pagecurrent {
+    font-weight: 600;
+    color: #fff;
+    background: #ff8c00;
 }
 #blog-pager .pages{border:none;}
 /*   前の投稿 次の投稿
