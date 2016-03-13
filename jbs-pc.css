@@ -327,11 +327,10 @@ float:right;
 /*   人気記事    
 --------------------------------------- */
 .popular-post ul li a {
-   font: 15px verdana; 
-   color:#000000; 
-   display:block;
-   padding:10px;
-   transition:0.4s;
+    font-size: 14px;
+    display: block;
+    padding: 0 0 8px;
+    transition: 0.4s;
 }
 .popular-post a:hover{
    color:#FF7043;
