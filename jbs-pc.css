@@ -242,8 +242,8 @@ a.article-label {
     float: left;
     margin: 4px;
     border: 2px solid #E0E0E0;
-    width: 90px;
-    height: 65px;
+    width: 70px;
+    height: 70px;
     transition: all 300ms ease-in-out;
     border-radius: 5px;
 }
