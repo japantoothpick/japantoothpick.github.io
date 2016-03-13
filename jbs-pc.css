@@ -474,6 +474,9 @@ ul.snsb iframe {
 .ad_area p {
     padding: 0!important;
 }
+.adsbygoogle {
+    margin: auto;
+}
 /*   レスポンシブデザイン
 --------------------------------------------------- */         
 @media screen and (max-width: 768px){
