@@ -363,9 +363,6 @@ float:right;
     list-style-type: none;
     line-height: 18px;
 }
-.archive-list ul a {
-    color: #0044CC;
-}
 .archive-list ul li{
    padding-bottom:8px;
 }
