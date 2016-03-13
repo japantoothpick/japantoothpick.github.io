@@ -330,10 +330,8 @@ float:right;
     font-size: 14px;
     display: block;
     padding: 0 0 8px;
-    transition: 0.4s;
 }
 .popular-post a:hover{
-   color:#FF7043;
 }
 .popular-post ul li{
    border-bottom:1px dashed #f2f2f2;
