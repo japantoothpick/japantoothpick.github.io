@@ -229,7 +229,8 @@ a.article-label {
     color: #666;
     transition: 0.3s;
 }
-#related-posts a:hover{
+#related-posts a:hover {
+    color: #FFA726;
 }
 #related-posts h2{
    margin-top: 10px;
