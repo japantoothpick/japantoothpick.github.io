@@ -248,10 +248,8 @@ a.article-label {
     border-radius: 5px;
 }
 .related-title {
-   padding: 0px 5px 10px;
-   font-size:14px;
-   width:120px;
-   height: 40px;
+   padding: 8px;
+   font-size:15px;
 }
 #related-posts .related_img:hover{
    border:2px solid #E8E8E8;
