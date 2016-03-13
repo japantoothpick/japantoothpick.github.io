@@ -19,6 +19,12 @@ body{
 }
 /*   リンク
 ----------------------------------------------- */
+a {
+color: #0044CC;	
+}
+a:visited {
+	color: #0044CC;	
+}
 a:link {
    text-decoration:none;
 }
