@@ -355,16 +355,16 @@ float:right;
 }
 /*   月別アーカイブ 
 --------------------------------------- */  
-.archive-list ul{
-   padding:0 0 20px 10px;
-   list-style-type:none;
-   line-height:18px;
+.archive-list ul {
+    padding: 0 0 8px 8px;
+    list-style-type: none;
+    line-height: 18px;
 }
 .archive-list ul a {
     color: #0044CC;
 }
 .archive-list ul li{
-   padding-bottom:7px;
+   padding-bottom:8px;
 }
 /*   ラベル
 -------------------------------------------- */  
