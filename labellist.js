@@ -255,6 +255,12 @@ function displayToc2() {
         do {
             document.write("<li>");
             document.write('<a href="' + postUrl[a] + '"' + ((opennew)? ' target="_blank"': '') + '>' + postTitle[a] + "</a>");
+            if (showdate) {
+              document.write(' - ' + postDate[a]);
+            }
+            if (postBaru[a] == true) {
+                document.write(' - <strong><em><span style="color: rgb(255, 0, 0);">New !!</span> </em></strong>')
+            }
             document.write("</li>");
             a = a + 1
         } while (postLabels[a] == temp1);
