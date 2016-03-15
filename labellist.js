@@ -255,9 +255,6 @@ function displayToc2() {
         do {
             document.write("<li>");
             document.write('<a href="' + postUrl[a] + '"' + ((opennew)? ' target="_blank"': '') + '>' + postTitle[a] + "</a>");
-            if (showdate) {
-              document.write(' - ' + postDate[a]);
-            }
             document.write("</li>");
             a = a + 1
         } while (postLabels[a] == temp1);
