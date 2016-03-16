@@ -9,16 +9,12 @@ var tocLoaded = false;
 var numChars = 250;
 var postFilter = "";
 var numberfeed = 0;
-var cntfeed = 0;
-var ii = 0;
-var opennew = (typeof openNewWindow != 'undefined' && openNewWindow);
-var showdate = (typeof showDate != 'undefined' && showDate);
 function loadtoc(a) {
     function b() {
         if ("entry" in a.feed) {
             var d = a.feed.entry.length;
             numberfeed = d;
-            //ii = 0;
+            ii = 0;
             for (var h = 0; h < d; h++) {
                 var n = a.feed.entry[h];
                 var e = n.title.$t;
@@ -50,7 +46,7 @@ function loadtoc(a) {
                         postDate[ii] = m;
                         postUrl[ii] = j;
                         postMp3[ii] = o;
-                        if (cntfeed == 0 && h < 10) {
+                        if (h < 10) {
                             postBaru[ii] = true
                         } else {
                             postBaru[ii] = false
@@ -62,9 +58,6 @@ function loadtoc(a) {
         }
     }
     b();
-    cntfeed++;
-}
-function showPosts() {
     sortBy = "titleasc";
     sortPosts(sortBy);
     sortlabel();
@@ -254,10 +247,7 @@ function displayToc2() {
         firsti = a;
         do {
             document.write("<li>");
-            document.write('<a href="' + postUrl[a] + '"' + ((opennew)? ' target="_blank"': '') + '>' + postTitle[a] + "</a>");
-            if (showdate) {
-              document.write(' - ' + postDate[a]);
-            }
+            document.write('<a href="' + postUrl[a] + '">' + postTitle[a] + "</a>");
             if (postBaru[a] == true) {
                 document.write(' - <strong><em><span style="color: rgb(255, 0, 0);">New !!</span> </em></strong>')
             }
