@@ -145,7 +145,6 @@ function printRelatedLabels_thumbs() {
     }
     var r = Math.floor((relatedTitles.length - 1) * Math.random());
     var i = 0;
-    if (relatedTitles.length > 0) document.write('<h2>' + relatedpoststitle + '</h2>');
     document.write('<div class=clearfix>');
     while (i < relatedTitles.length && i < 20 && i < maxresults) {
         document.write('<a class="clearfix" style="text-decoration:none;');
