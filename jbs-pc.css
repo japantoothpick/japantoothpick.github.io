@@ -231,7 +231,7 @@ a.article-label {
 #related-posts a {
     margin-bottom: 4px;
     display: block;
-    border-bottom: 1px dotted #E0E0E0;
+    border: 1px dotted #E0E0E0;
     color: #666;
     transition: 0.3s;
 }
