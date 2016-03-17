@@ -380,10 +380,7 @@ float:right;
    padding-bottom:7px;
 }
 /*   ラベル別 
------------------------------------------------ */     
-.labellist li {
-    list-style: none;
-}
+----------------------------------------------- */  
 .labellist p {
     margin-bottom: 4px;
     padding: 4px;
@@ -394,6 +391,11 @@ float:right;
 .labellist p a {
     color: #FFF!important;
     font-weight: 700;
+}.labellist ul {
+    padding: 0 0 8px 8px;
+    list-style: none;
+}
+.labellist li {
 }
 /*   フッター 
 ----------------------------------------------- */     
