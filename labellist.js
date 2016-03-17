@@ -242,7 +242,7 @@ function displayToc2() {
     var b = 0;
     while (b < postTitle.length) {
         temp1 = postLabels[b];
-        document.write("<p/>");
+
         document.write('<p><a href="/search/label/' + temp1 + '">' + temp1 + "</a></p><ul>");
         firsti = a;
         do {
