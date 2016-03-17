@@ -396,6 +396,7 @@ float:right;
     list-style: none;
 }
 .labellist li {
+    padding-bottom: 8px;
 }
 /*   フッター 
 ----------------------------------------------- */     
