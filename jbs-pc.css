@@ -384,6 +384,17 @@ float:right;
 .labellist li {
     list-style: none;
 }
+.labellist p {
+    margin-bottom: 4px;
+    padding: 4px;
+    background-color: #009688;
+    border-bottom: 2px solid #FF9800;
+    color: #FFF!important;
+}
+.labellist p a {
+    color: #FFF!important;
+    font-weight: 700;
+}
 /*   フッター 
 ----------------------------------------------- */     
 .footer-outer{
