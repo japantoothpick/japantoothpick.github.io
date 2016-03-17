@@ -379,7 +379,11 @@ float:right;
 .list-label-widget-content ul li{
    padding-bottom:7px;
 }
-
+/*   ラベル別 
+----------------------------------------------- */     
+.labellist li {
+    list-style: none;
+}
 /*   フッター 
 ----------------------------------------------- */     
 .footer-outer{
